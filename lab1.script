@@ -1,0 +1,12 @@
+Script started on Fri Mar 17 16:25:27 2017
+[?1034hbash-3.2$ whoami; pwd
+apple
+/Users/apple
+bash-3.2$ git config -l
+bash-3.2$ git clone https://github.com/Alanzzzz/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+bash-3.2$ exit
+
+Script done on Fri Mar 17 16:26:31 2017
